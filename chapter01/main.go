@@ -11,5 +11,5 @@ invokes it using one argument - the string Hello, World
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World")
+	fmt.Println("Hello, my name is Mogghwhy")
 }
