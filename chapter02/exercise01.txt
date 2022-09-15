@@ -1,0 +1,2 @@
+1. How are integers stored on a computer?
+Computers use base-2 numbers to store integers
