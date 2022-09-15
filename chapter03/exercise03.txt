@@ -1,0 +1,2 @@
+3. What is scope? How do you determine the scope of a variable in Go?
+scope is an area in code where the
