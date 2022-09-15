@@ -2,13 +2,7 @@ package main
 
 import "fmt"
 
-var x string = "Hello, World"
-
 func main() {
-
-	fmt.Println(x)
-}
-
-func f() {
+	const x string = "Hello, World"
 	fmt.Println(x)
 }
