@@ -1,0 +1,2 @@
+4. What is a string? How do you find its length?
+A string is a sequence of characters. One can find a length of a string using len() function
