@@ -1,0 +1,2 @@
+5. What is the of the expression (true && false) || (false && true) || !(false && false)
+false || false || true = true
