@@ -1,0 +1,2 @@
+4. What is the difference between var and const?
+var is a keyword used to define variables, const is a keyword used to define constants.

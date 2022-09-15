@@ -1,2 +1,3 @@
 3. What is scope? How do you determine the scope of a variable in Go?
-scope is an area in code where the
+scope is the range of places where the variable is allowed to be used.
+To determine scope of the variable look for the nearest curly braces or block.
