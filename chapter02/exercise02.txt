@@ -1,0 +1,2 @@
+2. what is the largest eight digit number?
+10^8 = 100000000 - 1 = 99999999
