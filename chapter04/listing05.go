@@ -4,18 +4,21 @@ import "fmt"
 
 func main() {
 	for i := 0; i <= 5; i++ {
-		if i == 0 {
+		switch i {
+		case 0:
 			fmt.Println("Zero")
-		} else if i == 1 {
+		case 1:
 			fmt.Println("One")
-		} else if i == 2 {
+		case 2:
 			fmt.Println("Two")
-		} else if i == 3 {
+		case 3:
 			fmt.Println("Three")
-		} else if i == 4 {
+		case 4:
 			fmt.Println("Four")
-		} else if i == 5 {
+		case 5:
 			fmt.Println("Five")
+		default:
+			fmt.Println("Unknown Number")
 		}
 	}
 }
