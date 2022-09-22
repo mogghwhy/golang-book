@@ -1,0 +1,7 @@
+1. Whad does the following program print?
+i := 10
+if i > 10 {
+    fmt.Println("Big")
+} else {
+    fmt.Println("Small")
+}
